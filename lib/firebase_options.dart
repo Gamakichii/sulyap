@@ -85,4 +85,5 @@ class DefaultFirebaseOptions {
     storageBucket: 'sulyap-kapampangan.appspot.com',
     measurementId: 'G-D7JPJTPDFJ',
   );
+
 }
